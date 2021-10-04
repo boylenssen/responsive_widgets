@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class NonResponsiveScreen extends StatefulWidget {
-  NonResponsiveScreen({Key key}) : super(key: key);
+  NonResponsiveScreen({Key? key}) : super(key: key);
 
   _NonResponsiveScreenState createState() => _NonResponsiveScreenState();
 }

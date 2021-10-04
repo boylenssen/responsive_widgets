@@ -4,7 +4,7 @@ import 'non_responsive_screen.dart';
 import 'responsive_screen.dart';
 
 class HomeScreen extends StatefulWidget {
-  HomeScreen({Key key}) : super(key: key);
+  HomeScreen({Key? key}) : super(key: key);
 
   _HomeScreenState createState() => _HomeScreenState();
 }

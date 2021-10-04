@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:responsive_widgets/responsive_widgets.dart';
 
 class ResponsiveScreen extends StatefulWidget {
-  ResponsiveScreen({Key key}) : super(key: key);
+  ResponsiveScreen({Key? key}) : super(key: key);
 
   _ResponsiveScreenState createState() => _ResponsiveScreenState();
 }
